@@ -1,0 +1,5 @@
+This is an Xournal++ plugin that toggles between the pen and the highlighter tool.
+I find it especially useful to use with the buttons on my wacom tablet while I'm note-taking.
+It binds to <Ctrl><Alt><Shift>p.
+To install, create a directory under /usr/share/xournalpp/plugins/ and put the plugin.ini and togglepen.lua files in there. Make sure that you have installed Xournal++ from the apt repository, not from Ubuntu's software center.
+Open Xournal++, under plugins>plugin manager turn on the plugin, and restart the program.
